@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: rgb(167, 82, 12);
+    border-bottom: 4px solid #e9da57;
+    height: 4rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.header h1 {
+    font-size: 2rem;
+    color: rgba(41, 34, 34, 0.966);
+    margin: 0;
+    text-align: center;
+}
+.logo {
+    width: 6rem;
+    height: 5rem;
+    padding-right: 1rem;
+    
+}
+.logo img {
+    width: 90%;
+    height: 100%;
+}
